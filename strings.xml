@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GuessingGame</string>
+    <string name="guess_prompt">Guess a number between 0 and 100 (inclusive)</string>
+    <string name ="guess_input_text">Your guess is:</string>
+    <string name="guess_button_text">Guess!</string>
+    <string name ="guess_too_low_text">Your guess is too low</string>
+    <string name ="guess_too_high_text">Your guess is too high</string>
+    <string name ="guess_invalid_text"> Please enter a number between 1 and 100</string>
+    <string name ="win_text">You won!</string>
+
+</resources>
